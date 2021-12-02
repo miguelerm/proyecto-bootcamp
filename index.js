@@ -12,3 +12,8 @@ function saludo()
 {
    console.log("hola");
 }
+
+function prueba()
+{
+   console.log("prueba");
+}
