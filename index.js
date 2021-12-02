@@ -7,3 +7,8 @@ function test()
 {
    console.log("test");
 }
+
+function saludo()
+{
+   console.log("hola");
+}
